@@ -19,6 +19,8 @@
   
   <img src="/Assets/icons/bash-original.svg" alt="bash" width="40" height="40"/>
   
+  <img src="https://user-images.githubusercontent.com/69325164/116598789-a5653e00-a8fd-11eb-9da7-e4c807131861.png" alt="Vim" width="40" height="40"/>
+  
   <img src="https://user-images.githubusercontent.com/69325164/116326935-0d037800-a79c-11eb-9782-4afe72ed6893.png" alt="python" width="40" height="40" />
   
   <img src="/Assets/icons/javascript-original.svg" alt="javascript" width="40" height="40" />
@@ -35,9 +37,15 @@
   
   <img src="/Assets/icons/git.svg" alt="git" width="40" height="40" />
   
+  <img src="https://user-images.githubusercontent.com/69325164/116599311-4c49da00-a8fe-11eb-9035-11c51bb100d0.png" alt="Next.js" width="40" height="40" />
+  
+  <img src="https://user-images.githubusercontent.com/69325164/116599438-7ac7b500-a8fe-11eb-8122-e3d00edb512b.png" alt="Electron" width="40" height="40" />
+  
   <img src="/Assets/icons/github-original.svg" alt="github" width="40" height="40" />
   
-  <img src="https://user-images.githubusercontent.com/69325164/116326823-c877dc80-a79b-11eb-8934-09d79a67e596.png" alt="react" width="6%" />
+  <img src="https://user-images.githubusercontent.com/69325164/116599670-c7ab8b80-a8fe-11eb-81af-3dcdd374c460.png" alt="Docker" width="50" height="40" />
+  
+  <img src="https://user-images.githubusercontent.com/69325164/116326823-c877dc80-a79b-11eb-8934-09d79a67e596.png" alt="react" width="60" height="40" />
 </p>
 
 <!--
