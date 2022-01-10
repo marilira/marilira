@@ -13,6 +13,7 @@
   </a>
 </div>
 
+<!--
 ### 💻 Technologies
 <p>
   <img src="https://user-images.githubusercontent.com/69325164/116326598-353ea700-a79b-11eb-8989-881ad1da6bad.png" alt="Arch Linux" width="40" height="40" />
@@ -48,7 +49,7 @@
   <img src="https://user-images.githubusercontent.com/69325164/116326823-c877dc80-a79b-11eb-8934-09d79a67e596.png" alt="react" width="60" height="40" />
 </p>
 
-<!--
+
 **marilira/marilira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
