@@ -13,7 +13,7 @@
     <p>
         <!--Stats-->
         <a href="https://github.com/marilira/github-readme-stats">
-            <img alt="Mari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marilira&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
+            <img alt="Mari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marilira&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" width="400px" />
         </a>
         <!--Languages-->
         <a href="https://github.com/marilira/github-readme-stats">
