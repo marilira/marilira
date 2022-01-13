@@ -3,15 +3,25 @@
 ## I'm exploring 🕵️‍♀️ and understanding 🤔 the World 🌎
 
 <div>
-  <!--Stats-->
-  <a href="https://github-readme-stats.vercel.app/api?username=marilira&show_icons=true&theme=radical">
-    <img src="https://github-readme-stats.vercel.app/api?username=marilira&show_icons=true&theme=radical&count_private=true" />
-  </a>
-  <!--Languages-->
-  <a href="https://github.com/marilira/github-readme-stats">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marilira&theme=radical&layout=compact" />
-  </a>
+  <p align="center">
+      <a href="https://github.com/marilira/github-readme-streak-stats">
+          <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mari's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=marilira&theme=midnight-purple&hide_border=true&stroke=0000&background=0D1117" />
+      </a>
+  </p>
 </div>
+<div>
+    <p>
+        <!--Stats-->
+        <a href="https://github.com/marilira/github-readme-stats">
+            <img alt="Mari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marilira&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
+        </a>
+        <!--Languages-->
+        <a href="https://github.com/marilira/github-readme-stats">
+            <img alt="Mari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marilira&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" align="right" width="400px" />
+        </a>
+    </p>
+</div>
+
 
 <!--
 ### 💻 Technologies
